@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "obsidian": {
+      "command": "npx",
+      "args": ["-y", "mcp-obsidian", "C:\\Users\\dschm\\OneDrive\\Articles"],
+      "type": "stdio"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# One feed URL per line; lines starting with # are ignored
+https://feed.syntax.fm/rss
+https://hnrss.org/frontpage
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss
+https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
+https://softwareengineeringdaily.com/feed/podcast
+# Skipping Radiolab sources for now (TLS/hidden feed issues)
+# https://www.wnycstudios.org/podcasts/radiolab
+# https://www.npr.org/podcasts/510289/
+https://www.xda-developers.com/feed
+https://fs.blog/feed/
+https://waitbutwhy.com/feed
+https://nautil.us/rss

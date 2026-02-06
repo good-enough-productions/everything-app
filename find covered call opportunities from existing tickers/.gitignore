@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# Local config containing secrets
+.itm_cc_config.json
